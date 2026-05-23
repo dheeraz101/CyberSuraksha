@@ -1,0 +1,19 @@
+export const extraSimulatorKeys = [
+  'scam-identification',
+  'fake-website',
+  'fake-upi-app',
+  'fake-aadhaar-link',
+  'fake-kyc',
+  'otp-scam',
+  'qr-scam',
+  'telegram-job',
+  'fake-government-scheme',
+  'fake-investment-app',
+  'digital-arrest',
+  'fake-bank-message',
+  'pan-card-fraud',
+  'loan-app-fraud',
+  'deepfake-scam',
+  'phishing-page',
+  'malicious-apk'
+];
