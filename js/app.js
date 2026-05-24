@@ -115,7 +115,7 @@ function openAboutModal(L) {
       <p class="text-sm mt-3">${t(L, 'about_description')}</p>
       <a target="_blank" rel="noopener" href="https://yabp.netlify.app/" class="mt-4 inline-flex text-primary underline text-sm">${t(L, 'about_project_link')}</a>
       <div class="mt-4 flex items-center gap-3">
-        <a aria-label="Email" href="mailto:cybersuraksha.2i7nm@aleeas.com" class="w-10 h-10 rounded-full bg-surface-elevated border border-white/10 inline-flex items-center justify-center text-on-surface-variant hover:text-primary hover:border-primary/30 transition-colors"><i class="ri-mail-fill text-lg"></i></a>
+        <a aria-label="Email" href="mailto:yabp.ub8ke@aleeas.com" class="w-10 h-10 rounded-full bg-surface-elevated border border-white/10 inline-flex items-center justify-center text-on-surface-variant hover:text-primary hover:border-primary/30 transition-colors"><i class="ri-mail-fill text-lg"></i></a>
         <a aria-label="GitHub" target="_blank" rel="noopener" href="https://github.com/dheeraz101/CyberSuraksha" class="w-10 h-10 rounded-full bg-surface-elevated border border-white/10 inline-flex items-center justify-center text-on-surface-variant hover:text-primary hover:border-primary/30 transition-colors"><i class="ri-github-fill text-lg"></i></a>
       </div>
     </div>
